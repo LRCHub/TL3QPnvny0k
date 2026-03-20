@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "汚さないで。",
   "base_artist": "たかやん",
-  "createdAt": "2026-03-19T12:27:49.703995Z",
+  "createdAt": "2026-03-20T13:25:27.522127Z",
   "candidates": [
     {
       "id": "petitlyrics_1",
@@ -11,6 +11,15 @@
       "artist": "たかやん",
       "has_synced": false,
       "path": "select/pl_01_汚さないで。_たかやん.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "汚さないで。",
+      "artist": "たかやん",
+      "has_synced": false,
+      "path": "select/localdb_01_汚さないで。_たかやん.txt",
+      "repo_name": "TL3QPnvny0k"
     }
   ]
 }
